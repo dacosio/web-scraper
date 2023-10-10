@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,-3,-11,-7.0,longueuil
+February,-3,-11,-7.0,longueuil
+March,4,-5,-0.5,longueuil
+April,13,3,8.0,longueuil
+May,21,10,15.5,longueuil
+June,25,15,20.0,longueuil
+July,27,18,22.5,longueuil
+August,26,17,21.5,longueuil
+September,22,13,17.5,longueuil
+October,14,6,10.0,longueuil
+November,8,0,4.0,longueuil
+December,0,-7,-3.5,longueuil

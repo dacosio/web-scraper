@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,-10,-20,-15.0,portage-la-prairie
+February,-7,-18,-12.5,portage-la-prairie
+March,0,-10,-5.0,portage-la-prairie
+April,10,-2,4.0,portage-la-prairie
+May,18,5,11.5,portage-la-prairie
+June,23,11,17.0,portage-la-prairie
+July,26,14,20.0,portage-la-prairie
+August,25,13,19.0,portage-la-prairie
+September,20,8,14.0,portage-la-prairie
+October,11,1,6.0,portage-la-prairie
+November,1,-8,-3.5,portage-la-prairie
+December,-7,-16,-11.5,portage-la-prairie

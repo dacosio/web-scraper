@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,-9,-19,-14.0,winnipeg
+February,-9,-19,-14.0,winnipeg
+March,0,-10,-5.0,winnipeg
+April,11,-1,5.0,winnipeg
+May,18,6,12.0,winnipeg
+June,24,12,18.0,winnipeg
+July,27,16,21.5,winnipeg
+August,26,15,20.5,winnipeg
+September,22,10,16.0,winnipeg
+October,12,3,7.5,winnipeg
+November,2,-6,-2.0,winnipeg
+December,-8,-16,-12.0,winnipeg

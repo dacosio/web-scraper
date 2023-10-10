@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,7,2,4.5,burnaby
+February,8,2,5.0,burnaby
+March,10,4,7.0,burnaby
+April,13,6,9.5,burnaby
+May,17,9,13.0,burnaby
+June,20,12,16.0,burnaby
+July,22,14,18.0,burnaby
+August,22,14,18.0,burnaby
+September,19,11,15.0,burnaby
+October,14,7,10.5,burnaby
+November,9,4,6.5,burnaby
+December,7,1,4.0,burnaby

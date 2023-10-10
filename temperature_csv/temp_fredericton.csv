@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,-4,-15,-9.5,fredericton
+February,-2,-14,-8.0,fredericton
+March,3,-8,-2.5,fredericton
+April,10,-1,4.5,fredericton
+May,18,5,11.5,fredericton
+June,23,10,16.5,fredericton
+July,26,13,19.5,fredericton
+August,25,13,19.0,fredericton
+September,20,8,14.0,fredericton
+October,13,2,7.5,fredericton
+November,6,-3,1.5,fredericton
+December,0,-10,-5.0,fredericton

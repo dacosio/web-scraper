@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,-8,-20,-14.0,regina
+February,-7,-18,-12.5,regina
+March,0,-10,-5.0,regina
+April,11,-2,4.5,regina
+May,18,4,11.0,regina
+June,23,9,16.0,regina
+July,26,12,19.0,regina
+August,25,10,17.5,regina
+September,20,5,12.5,regina
+October,11,-2,4.5,regina
+November,1,-10,-4.5,regina
+December,-6,-18,-12.0,regina

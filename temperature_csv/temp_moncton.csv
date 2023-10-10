@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,-3,-14,-8.5,moncton
+February,-2,-13,-7.5,moncton
+March,2,-8,-3.0,moncton
+April,9,-1,4.0,moncton
+May,16,4,10.0,moncton
+June,21,9,15.0,moncton
+July,25,13,19.0,moncton
+August,24,13,18.5,moncton
+September,20,8,14.0,moncton
+October,13,3,8.0,moncton
+November,6,-2,2.0,moncton
+December,0,-9,-4.5,moncton

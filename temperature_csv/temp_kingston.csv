@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,-2,-10,-6.0,kingston
+February,-2,-10,-6.0,kingston
+March,3,-5,-1.0,kingston
+April,10,2,6.0,kingston
+May,17,8,12.5,kingston
+June,22,14,18.0,kingston
+July,25,17,21.0,kingston
+August,24,16,20.0,kingston
+September,20,12,16.0,kingston
+October,13,6,9.5,kingston
+November,7,0,3.5,kingston
+December,1,-6,-2.5,kingston

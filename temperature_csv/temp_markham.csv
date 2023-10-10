@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,-2,-10,-6.0,markham
+February,-1,-10,-5.5,markham
+March,4,-5,-0.5,markham
+April,12,1,6.5,markham
+May,19,8,13.5,markham
+June,24,13,18.5,markham
+July,27,16,21.5,markham
+August,26,15,20.5,markham
+September,21,10,15.5,markham
+October,14,4,9.0,markham
+November,7,-1,3.0,markham
+December,1,-6,-2.5,markham

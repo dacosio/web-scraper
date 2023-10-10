@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,0,-12,-6.0,calgary
+February,1,-11,-5.0,calgary
+March,5,-7,-1.0,calgary
+April,11,-2,4.5,calgary
+May,16,3,9.5,calgary
+June,20,8,14.0,calgary
+July,23,10,16.5,calgary
+August,23,9,16.0,calgary
+September,19,5,12.0,calgary
+October,12,-1,5.5,calgary
+November,4,-7,-1.5,calgary
+December,0,-12,-6.0,calgary

@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,1,-5,-2.0,kamloops
+February,4,-4,0.0,kamloops
+March,11,0,5.5,kamloops
+April,17,3,10.0,kamloops
+May,22,8,15.0,kamloops
+June,25,12,18.5,kamloops
+July,29,14,21.5,kamloops
+August,29,14,21.5,kamloops
+September,23,9,16.0,kamloops
+October,14,4,9.0,kamloops
+November,6,-1,2.5,kamloops
+December,1,-5,-2.0,kamloops

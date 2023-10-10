@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,-11,-20,-15.5,whitehorse
+February,-6,-16,-11.0,whitehorse
+March,-1,-13,-7.0,whitehorse
+April,7,-4,1.5,whitehorse
+May,14,1,7.5,whitehorse
+June,19,6,12.5,whitehorse
+July,20,8,14.0,whitehorse
+August,19,7,13.0,whitehorse
+September,12,3,7.5,whitehorse
+October,4,-3,0.5,whitehorse
+November,-5,-13,-9.0,whitehorse
+December,-9,-17,-13.0,whitehorse

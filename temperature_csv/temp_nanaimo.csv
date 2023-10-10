@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,7,4,5.5,nanaimo
+February,8,4,6.0,nanaimo
+March,10,5,7.5,nanaimo
+April,12,7,9.5,nanaimo
+May,15,10,12.5,nanaimo
+June,18,13,15.5,nanaimo
+July,21,15,18.0,nanaimo
+August,21,16,18.5,nanaimo
+September,18,13,15.5,nanaimo
+October,13,9,11.0,nanaimo
+November,9,6,7.5,nanaimo
+December,7,4,5.5,nanaimo

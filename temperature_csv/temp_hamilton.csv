@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,-1,-9,-5.0,hamilton
+February,-1,-9,-5.0,hamilton
+March,4,-5,-0.5,hamilton
+April,12,1,6.5,hamilton
+May,19,7,13.0,hamilton
+June,24,13,18.5,hamilton
+July,27,15,21.0,hamilton
+August,25,15,20.0,hamilton
+September,22,11,16.5,hamilton
+October,14,5,9.5,hamilton
+November,8,0,4.0,hamilton
+December,2,-5,-1.5,hamilton

@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,-1,-9,-5.0,brampton
+February,-1,-9,-5.0,brampton
+March,5,-4,0.5,brampton
+April,12,2,7.0,brampton
+May,19,8,13.5,brampton
+June,24,14,19.0,brampton
+July,27,16,21.5,brampton
+August,26,16,21.0,brampton
+September,22,11,16.5,brampton
+October,15,5,10.0,brampton
+November,8,0,4.0,brampton
+December,2,-5,-1.5,brampton

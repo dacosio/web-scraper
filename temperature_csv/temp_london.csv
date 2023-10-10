@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,-2,-9,-5.5,london
+February,-1,-9,-5.0,london
+March,4,-4,0.0,london
+April,12,2,7.0,london
+May,19,8,13.5,london
+June,24,13,18.5,london
+July,26,15,20.5,london
+August,25,14,19.5,london
+September,22,10,16.0,london
+October,14,5,9.5,london
+November,7,0,3.5,london
+December,1,-5,-2.0,london

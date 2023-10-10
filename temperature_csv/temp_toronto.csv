@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,-1,-9,-5.0,toronto
+February,-1,-9,-5.0,toronto
+March,5,-4,0.5,toronto
+April,12,2,7.0,toronto
+May,19,8,13.5,toronto
+June,24,14,19.0,toronto
+July,27,16,21.5,toronto
+August,26,16,21.0,toronto
+September,22,11,16.5,toronto
+October,15,5,10.0,toronto
+November,8,0,4.0,toronto
+December,2,-5,-1.5,toronto

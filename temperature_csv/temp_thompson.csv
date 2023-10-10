@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,-18,-29,-23.5,thompson
+February,-14,-27,-20.5,thompson
+March,-5,-20,-12.5,thompson
+April,5,-9,-2.0,thompson
+May,13,-1,6.0,thompson
+June,20,5,12.5,thompson
+July,23,9,16.0,thompson
+August,21,8,14.5,thompson
+September,14,2,8.0,thompson
+October,5,-4,0.5,thompson
+November,-7,-16,-11.5,thompson
+December,-15,-26,-20.5,thompson

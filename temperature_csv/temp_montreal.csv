@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,-5,-13,-9.0,montreal
+February,-3,-13,-8.0,montreal
+March,3,-6,-1.5,montreal
+April,12,2,7.0,montreal
+May,19,8,13.5,montreal
+June,24,14,19.0,montreal
+July,26,17,21.5,montreal
+August,25,15,20.0,montreal
+September,21,11,16.0,montreal
+October,13,4,8.5,montreal
+November,6,-2,2.0,montreal
+December,-1,-9,-5.0,montreal

@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,-23,-31,-27.0,iqaluit
+February,-23,-32,-27.5,iqaluit
+March,-18,-28,-23.0,iqaluit
+April,-9,-19,-14.0,iqaluit
+May,-1,-7,-4.0,iqaluit
+June,7,1,4.0,iqaluit
+July,12,4,8.0,iqaluit
+August,11,4,7.5,iqaluit
+September,5,0,2.5,iqaluit
+October,-1,-6,-3.5,iqaluit
+November,-8,-15,-11.5,iqaluit
+December,-16,-25,-20.5,iqaluit

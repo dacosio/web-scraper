@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,-5,-14,-9.5,gatineau
+February,-4,-13,-8.5,gatineau
+March,3,-7,-2.0,gatineau
+April,12,1,6.5,gatineau
+May,20,8,14.0,gatineau
+June,24,13,18.5,gatineau
+July,27,15,21.0,gatineau
+August,26,14,20.0,gatineau
+September,21,10,15.5,gatineau
+October,13,3,8.0,gatineau
+November,6,-2,2.0,gatineau
+December,-2,-9,-5.5,gatineau

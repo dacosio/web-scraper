@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,7,0,3.5,surrey
+February,9,1,5.0,surrey
+March,11,2,6.5,surrey
+April,15,5,10.0,surrey
+May,18,8,13.0,surrey
+June,21,11,16.0,surrey
+July,24,12,18.0,surrey
+August,25,12,18.5,surrey
+September,22,9,15.5,surrey
+October,15,6,10.5,surrey
+November,10,3,6.5,surrey
+December,6,0,3.0,surrey

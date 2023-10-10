@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,8,2,5.0,victoria
+February,9,2,5.5,victoria
+March,11,3,7.0,victoria
+April,14,4,9.0,victoria
+May,17,7,12.0,victoria
+June,20,10,15.0,victoria
+July,23,12,17.5,victoria
+August,23,11,17.0,victoria
+September,20,9,14.5,victoria
+October,14,6,10.0,victoria
+November,10,3,6.5,victoria
+December,7,2,4.5,victoria

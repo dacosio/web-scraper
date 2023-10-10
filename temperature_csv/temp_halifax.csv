@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,-1,-10,-5.5,halifax
+February,-1,-10,-5.5,halifax
+March,3,-6,-1.5,halifax
+April,9,0,4.5,halifax
+May,16,5,10.5,halifax
+June,20,10,15.0,halifax
+July,24,14,19.0,halifax
+August,24,14,19.0,halifax
+September,20,10,15.0,halifax
+October,14,4,9.0,halifax
+November,8,0,4.0,halifax
+December,2,-6,-2.0,halifax

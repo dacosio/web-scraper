@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,-2,-13,-7.5,saint-john
+February,-2,-13,-7.5,saint-john
+March,3,-7,-2.0,saint-john
+April,9,-1,4.0,saint-john
+May,15,4,9.5,saint-john
+June,20,9,14.5,saint-john
+July,23,12,17.5,saint-john
+August,23,12,17.5,saint-john
+September,19,8,13.5,saint-john
+October,13,3,8.0,saint-john
+November,7,-2,2.5,saint-john
+December,1,-8,-3.5,saint-john

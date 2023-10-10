@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,-5,-13,-9.0,laval
+February,-3,-13,-8.0,laval
+March,3,-6,-1.5,laval
+April,12,2,7.0,laval
+May,19,8,13.5,laval
+June,24,14,19.0,laval
+July,26,17,21.5,laval
+August,25,15,20.0,laval
+September,21,11,16.0,laval
+October,13,4,8.5,laval
+November,6,-2,2.0,laval
+December,-1,-9,-5.0,laval

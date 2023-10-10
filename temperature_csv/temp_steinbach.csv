@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,-9,-19,-14.0,steinbach
+February,-9,-19,-14.0,steinbach
+March,0,-10,-5.0,steinbach
+April,11,-1,5.0,steinbach
+May,18,6,12.0,steinbach
+June,24,12,18.0,steinbach
+July,27,16,21.5,steinbach
+August,26,15,20.5,steinbach
+September,22,10,16.0,steinbach
+October,12,3,7.5,steinbach
+November,2,-6,-2.0,steinbach
+December,-8,-16,-12.0,steinbach

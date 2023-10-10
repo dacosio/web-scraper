@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,-4,-12,-8.0,summerside
+February,-4,-12,-8.0,summerside
+March,1,-7,-3.0,summerside
+April,7,0,3.5,summerside
+May,14,5,9.5,summerside
+June,20,11,15.5,summerside
+July,24,15,19.5,summerside
+August,23,15,19.0,summerside
+September,19,11,15.0,summerside
+October,12,5,8.5,summerside
+November,6,0,3.0,summerside
+December,0,-7,-3.5,summerside

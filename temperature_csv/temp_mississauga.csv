@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,-1,-9,-5.0,mississauga
+February,-1,-9,-5.0,mississauga
+March,5,-4,0.5,mississauga
+April,12,2,7.0,mississauga
+May,19,8,13.5,mississauga
+June,24,14,19.0,mississauga
+July,27,16,21.5,mississauga
+August,26,16,21.0,mississauga
+September,22,11,16.5,mississauga
+October,15,5,10.0,mississauga
+November,8,0,4.0,mississauga
+December,2,-5,-1.5,mississauga

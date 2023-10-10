@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,1,-11,-5.0,lethbridge
+February,3,-10,-3.5,lethbridge
+March,7,-6,0.5,lethbridge
+April,13,-1,6.0,lethbridge
+May,18,3,10.5,lethbridge
+June,22,8,15.0,lethbridge
+July,26,10,18.0,lethbridge
+August,26,9,17.5,lethbridge
+September,21,5,13.0,lethbridge
+October,14,0,7.0,lethbridge
+November,6,-7,-0.5,lethbridge
+December,1,-11,-5.0,lethbridge

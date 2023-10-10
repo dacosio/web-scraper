@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,-5,-14,-9.5,st-albert
+February,-3,-12,-7.5,st-albert
+March,2,-7,-2.5,st-albert
+April,11,0,5.5,st-albert
+May,18,5,11.5,st-albert
+June,21,10,15.5,st-albert
+July,23,13,18.0,st-albert
+August,23,11,17.0,st-albert
+September,18,6,12.0,st-albert
+October,11,0,5.5,st-albert
+November,1,-7,-3.0,st-albert
+December,-5,-13,-9.0,st-albert

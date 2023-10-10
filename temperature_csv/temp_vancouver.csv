@@ -1,0 +1,13 @@
+month,high_temp,low_temp,mean,city
+January,7,2,4.5,vancouver
+February,8,2,5.0,vancouver
+March,10,4,7.0,vancouver
+April,13,6,9.5,vancouver
+May,17,9,13.0,vancouver
+June,20,12,16.0,vancouver
+July,22,14,18.0,vancouver
+August,22,14,18.0,vancouver
+September,19,11,15.0,vancouver
+October,14,7,10.5,vancouver
+November,9,4,6.5,vancouver
+December,7,1,4.0,vancouver
